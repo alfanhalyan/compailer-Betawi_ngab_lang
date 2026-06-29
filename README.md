@@ -32,3 +32,29 @@ betawi-ngab-lang/
 ├── .gitignore
 └── README.md
 ```
+
+## Spesifikasi Bahasa BETA
+
+### Kata Kunci (Keywords) & Operator
+
+Bahasa BETA memetakan instruksi pemrograman ke dalam Bahasa Betawi Tangerang:
+
+- `kudu` : Deklarasi variabel (wajib)
+
+- `kalo` : Kondisional `if`
+
+- `selaen` : Kondisional `else`
+
+- `selagi` : Perulangan `while`
+
+- `ngomong(...)` : Menampilkan output ke terminal (`print`)
+
+- `tanya(...)` : Meminta input pengguna (`input`)
+
+- `jadi_angka(...)` : Konversi ke tipe angka (`int` / `float`)
+
+- `jadi_tulisan(...)` : Konversi ke tipe string (`str`)
+
+- `bener` : Nilai boolean `True`
+
+- `salah` : Nilai boolean `False`
